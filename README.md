@@ -36,6 +36,7 @@
 
 
 </div>
+<img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" align="right" style="margin:auto;height:150px"/>
 
 <font color="pink">Profilime hoşgeldiniz :) </font>
 
