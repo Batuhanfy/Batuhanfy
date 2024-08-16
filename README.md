@@ -42,8 +42,8 @@
 ### Hi There , I'm Batuhan 👨‍💼🍁
 ## Fullstack  | Software Developer
 
-<span>Hazinen neredeyse, kalbin de orada olacak. </Span>
-<span><strong>J. K. Rowling (Robert Galbraith)</strong></span>
+<span><strong>Yazılım, insanların hayatlarını kolaylaştırmak için tasarlanmış bir araçtır. Her satır kod, bu amaca hizmet etmelidir. </strong> </Span>
+
 
 ### Reach out to me
 
