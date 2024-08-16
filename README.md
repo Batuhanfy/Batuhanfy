@@ -53,8 +53,9 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v13/icons/gmail.svg" align="left" />][mail]
 
-
+<br/><br/>
 
 [instagram]: https://www.instagram.com/batuhanfy/
 [linkedin]: https://www.linkedin.com/in/batuhan-korkmaz-180ab4318/
 [mail]: iletisim@batuhankorkmaz.com
+
