@@ -41,7 +41,7 @@
 
 ### Hi There , I'm Batuhan 👨‍💼🍁
 ## Fullstack  | Software Developer
-
+<span>Contact: iletisim@batuhanfy.com</span><br/>
 <span><strong>Yazılım, insanların hayatlarını kolaylaştırmak için tasarlanmış bir araçtır. Her satır kod, bu amaca hizmet etmelidir. </strong> </Span>
 
 
