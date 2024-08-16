@@ -6,8 +6,9 @@
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/166943614/original/911e0844c0e26731bbd447fbf845b7daf3e50e5b/develop-asp-net-mvc-asp-net-core-web-application.jpg" style="margin:auto;height:80px;">
 
 <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" style="margin:auto;height:80px;">
-</div>
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXalRyF7J7QRLkJfMwCMqA47UUDCFdHJ-dFQ&s" style="margin:auto;height:80px;">
+</div>
 
 
 
