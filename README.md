@@ -19,7 +19,13 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" style="margin:auto;height:60px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" style="margin:auto;height:60px;">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGcoUBY7LKo7aDIvVA3gM7FMO6Bm8PewopQ&s" style="margin:auto;height:60px;">
+
 </div>
+
 
 
 
