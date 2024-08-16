@@ -44,7 +44,7 @@
 ## Fullstack  | Software Developer
 
 <span>Hazinen neredeyse, kalbin de orada olacak. </Span>
-<span><bold>J. K. Rowling (Robert Galbraith)</bold></span>
+<span><strong>J. K. Rowling (Robert Galbraith)</strong></span>
 
 
 
