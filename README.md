@@ -45,5 +45,9 @@
 <span>Hazinen neredeyse, kalbin de orada olacak. </Span>
 <span><strong>J. K. Rowling (Robert Galbraith)</strong></span>
 
+### Reach out to me
 
+[<img width="22" src="https://unpkg.com/simple-icons@v13/icons/Instagram.svg" align="left" />][instagram]
 
+[instagram]: https://www.instagram.com/batuhanfy/
+[linkedin]: https://www.linkedin.com/in/batuhan-korkmaz-180ab4318/
