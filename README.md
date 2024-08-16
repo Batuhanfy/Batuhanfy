@@ -39,8 +39,7 @@
 <img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" align="right" style="margin:auto;height:150px"/>
 
 
-### Hi There , I'm Batuhan 👨‍💼
-
+### Hi There , I'm Batuhan 👨‍💼🍁
 ## Fullstack  | Software Developer
 
 <span>Hazinen neredeyse, kalbin de orada olacak. </Span>
