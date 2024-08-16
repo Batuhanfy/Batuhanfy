@@ -42,7 +42,7 @@
 ### Hi There , I'm Batuhan 👨‍💼🍁
 ## Fullstack  | Software Developer
 
-<span><strong>Yazılım, insanların hayatlarını kolaylaştırmak için tasarlanmış bir araçtır. Her satır kod, bu amaca hizmet etmelidir. </strong> </Span>
+<span><strong>Sizler için her zaman en iyi projeleri geliştirmeye ve güncellemeye çalışıyorum. Her türlü isteğinizi benimle iletişime geçip bildirebilirsiniz.</strong> </Span>
 <br/><span>iletisim@batuhankorkmaz.com</span>
 
 ### Reach out to me
