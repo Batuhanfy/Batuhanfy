@@ -42,7 +42,9 @@
 ### Hi There , I'm Batuhan 👨‍💼
 
 ## Fullstack  | Software Developer
-<font color="pink">Hazinen neredeyse, kalbin de orada olacak. \n J. K. Rowling (Robert Galbraith)</font>
+
+<span>Hazinen neredeyse, kalbin de orada olacak. </Span>
+<span>J. K. Rowling (Robert Galbraith)</span>
 
 
 
