@@ -59,7 +59,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v13/icons/gmail.svg" align="left" />][mail]
 
-<br/><br/>
+<br/><br/><br/><br/>
 
 <div style="display:flex">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanfy&langs_count=8">
