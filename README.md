@@ -58,6 +58,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=batuhanfy&theme=tokyonight">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanfy&langs_count=8">
 [instagram]: https://www.instagram.com/batuhanfy/
 [linkedin]: https://www.linkedin.com/in/batuhan-korkmaz-180ab4318/
 [mail]: iletisim@batuhankorkmaz.com
