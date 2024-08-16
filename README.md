@@ -14,6 +14,11 @@
 <img src="https://www.tcpl.org/sites/default/files/2019-12/photoshop_illustrator_cs6_icons_1.jpg" style="margin:auto;height:60px;">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1DIlYvtaJulsJZag0JnuNVddwTFSonHeeQQ&s" style="margin:auto;height:60px;">
+
+<img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" style="margin:auto;height:60px;">
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" style="margin:auto;height:60px;">
 </div>
 
 
