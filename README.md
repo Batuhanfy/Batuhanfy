@@ -37,6 +37,8 @@
 
 </div>
 
+<font color="pink">Profilime hoşgeldiniz :) </font>
+
 
 
 ### Hi There , I'm Batuhan :blush:
