@@ -38,10 +38,11 @@
 </div>
 <img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" align="right" style="margin:auto;height:150px"/>
 
+
+### Hi There , I'm Batuhan :blush:
+
+## Fullstack  | Software Developer
 <font color="pink">Profilime hoşgeldiniz :) </font>
 
 
 
-### Hi There , I'm Batuhan :blush:
-
-## Fullstack - React - C# | Software Developer
