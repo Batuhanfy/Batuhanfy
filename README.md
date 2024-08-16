@@ -43,7 +43,7 @@
 ## Fullstack  | Software Developer
 
 <span><strong>Yazılım, insanların hayatlarını kolaylaştırmak için tasarlanmış bir araçtır. Her satır kod, bu amaca hizmet etmelidir. </strong> </Span>
-<br/><span>iletisim@batuhanfy.com</span>
+<br/><span>iletisim@batuhankorkmaz.com</span>
 
 ### Reach out to me
 
