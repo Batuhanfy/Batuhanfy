@@ -39,7 +39,7 @@
 <img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" align="right" style="margin:auto;height:150px"/>
 
 
-### Hi There , I'm Batuhan :man_in_tuxedo:
+### Hi There , I'm Batuhan 👨‍💼
 
 ## Fullstack  | Software Developer
 <font color="pink">Profilime hoşgeldiniz :) </font>
