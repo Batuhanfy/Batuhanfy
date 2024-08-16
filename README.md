@@ -56,7 +56,7 @@
 <br/><br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=batuhanfy&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=batuhanfy&theme=tokyonight">
 
 [instagram]: https://www.instagram.com/batuhanfy/
 [linkedin]: https://www.linkedin.com/in/batuhan-korkmaz-180ab4318/
