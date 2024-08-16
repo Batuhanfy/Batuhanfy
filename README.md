@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
+<img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 ### Hi There , I'm Batuhan :blush:
 
