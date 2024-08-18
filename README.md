@@ -40,7 +40,7 @@
 
 
 ### Hi There , I'm Batuhan 👨‍💼🍁
-## Fullstack  | Software Developer
+## Fullstack  |  Software Developer
 
 <span><strong>Sizler için her zaman en iyi projeleri geliştirmeye ve güncellemeye çalışıyorum. Her türlü isteğinizi benimle iletişime geçip bildirebilirsiniz.</strong> </Span>
 <br/><span>iletisim@batuhankorkmaz.com</span>
