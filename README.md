@@ -36,11 +36,13 @@
 
 
 </div>
-<img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" align="right" style="margin:auto;height:150px"/>
+<img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" align="right" style="margin:auto;height:150px;z-index:9999"/>
 
 
 ### Hi There , I'm Batuhan 👨‍💼🍁
-## Fullstack  |  Software Developer
+<span style="font-weight: bold;font-size: 18px;"> 
+</span>
+
 
 <span>
 <strong>
