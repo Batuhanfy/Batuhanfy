@@ -28,7 +28,7 @@ I am always striving to develop and improve the best projects for you. Feel free
 ### 🌍 Connect with Me:
 
 <p>
-  <a href="https://www.linkedin.com/in/batuhan-korkmaz-180ab4318/" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/batuhanfy" target="_blank"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/batuhanfy" target="_blank"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" /></a>
   <a href="https://medium.com/@bthnkkz" target="_blank"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="Medium" /></a>
 </p>
