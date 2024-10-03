@@ -21,7 +21,7 @@
 I am always striving to develop and improve the best projects for you. Feel free to reach out to me for any requests or inquiries.
 
 ### 📧 Contact Information:
-- **Email**: iletisim@batuhankorkmaz.com
+- **Email**: contact@batuhankorkmaz.com
 
 ---
 
